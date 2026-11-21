@@ -42,7 +42,7 @@ export default async function HomePage() {
             </section>
 
             {/* right side - login form */}
-            {/* <section className="flex flex-1 items-center justify-center px-6 py-12">
+            <section className="flex flex-1 items-center justify-center px-6 py-12">
                 <div className="w-full max-w-md rounded-card bg-white p-8 shadow-card">
                     <h2 className="text-2xl font-bold text-ink">Welcome back</h2>
                     <p className="mt-1 text-sm text-slate-500">Sign in to continue to your dashboard.</p>
@@ -57,7 +57,7 @@ export default async function HomePage() {
                         <p>Staff: <span className="font-mono">nimal@upbright.lk</span> / <span className="font-mono">Staff@123</span></p>
                     </div>
                 </div>
-            </section> */}
+            </section>
         </main>
     );
 }
